@@ -18,6 +18,6 @@ guessing_number() {
    done
 
    if [ $i -eq 3 ]; then
-      echo "You lose! The correct number was $rand_number."
+      echo "You lose! The correct number was $ran_number."
    fi
 }

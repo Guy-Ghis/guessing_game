@@ -1,1 +1,5 @@
 Guess the number:
+You missed! The random number is lesser than 6
+Please try again!
+Guess the number:
+Congratulations, You Won!
